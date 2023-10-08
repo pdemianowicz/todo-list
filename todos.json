@@ -1,0 +1,18 @@
+{
+    "task_1": {
+        "content": "Buy a milk",
+        "completed": true
+    },
+    "task_2": {
+        "content": "Call a dad",
+        "completed": false
+    },
+    "task_3": {
+        "content": "Complete a previous task",
+        "completed": false
+    },
+    "task_4": {
+        "content": "Prepare presentation",
+        "completed": false
+    }
+}
